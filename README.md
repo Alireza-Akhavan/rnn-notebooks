@@ -7,7 +7,7 @@ RNN(SimpleRNN, LSTM, GRU) Tensorflow2.0 &amp; Keras Notebooks (Workshop material
 
 # Slides
 
-[RNN.pdf](./slides/RNN.pdf)
+[RNN.pdf](./Slides/RNN.pdf)
 
 # Notebooks
 
