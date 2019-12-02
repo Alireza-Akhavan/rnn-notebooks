@@ -32,6 +32,7 @@ RNN(SimpleRNN, LSTM, GRU) Tensorflow2.0 &amp; Keras Notebooks (Workshop material
  - what is TimeDistributed layer in Keras?
  - Introduction to video classification
  - CNN + LSTM
+ 
 [04_simple-CNN-LSTM.ipynb](https://nbviewer.jupyter.org/github/Alireza-Akhavan/rnn-notebooks/blob/master/04_simple-CNN-LSTM.ipynb)
 
 ## Action Recognition with pre-trained CNN and LSTM
