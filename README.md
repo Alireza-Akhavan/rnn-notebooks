@@ -9,6 +9,10 @@ RNN(SimpleRNN, LSTM, GRU) Tensorflow2.0 &amp; Keras Notebooks (Workshop material
 
 [RNN.pdf](./Slides/RNN.pdf)
 
+# Video
+Some parts are freely available from our [Aparat channel](https://www.aparat.com/v/qD1Mi?playlist=287685) or
+you can purchase a full package including 32 videos in Persian from [class.vision](http://class.vision/deeplearning2/)
+
 # Notebooks
 
 ## Intro to RNN:
